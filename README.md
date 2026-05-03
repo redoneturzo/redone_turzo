@@ -8,6 +8,6 @@
 
 
 
-<a href="https://github.com/redoneprodhan/redonebinthohid.github.io">
+<a href="https://redoneprodhan.github.io/redonebinthohid.github.io/">
   <img src="LINK_TO_YOUR_IMAGE.jpg" alt="My Portfolio Logo">
 </a>
