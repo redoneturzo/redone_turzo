@@ -9,5 +9,5 @@
 
 <p align="center">
 <a href="https://redoneprodhan.github.io/redonebinthohid.github.io/">
-  <<img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github"></a>
+  <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github"></a>
 </p>
